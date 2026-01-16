@@ -1,0 +1,9 @@
+{
+	"name": "azureSQLdbToDatalake",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9bcbe76-c51d-43b0-8bb5-1524e66055a7",
+		"tenantId": "8223794a-e2ca-4cfb-96cc-60c6278be882"
+	}
+}
